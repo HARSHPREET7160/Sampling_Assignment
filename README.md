@@ -114,5 +114,3 @@ The study highlights the critical role of **sampling techniques** in fraud detec
 While Random Forest consistently delivered superior performance, **Bootstrap Sampling** proved to be the most robust sampling strategy overall.
 
 ---
-
-⭐ *If you find this project useful, consider giving it a star on GitHub!*
